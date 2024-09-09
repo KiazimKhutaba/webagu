@@ -4,8 +4,8 @@
 
 
 <img src="https://i.imgur.com/tZruy4H.png" alt="WebAgu login page" />
-<img src="https://i.imgur.com/di1twjF.png" alt="WebAgu lectures dashboard light theme" />
-<img src="https://i.imgur.com/L1RtA40.png" alt="WebAgu lectures dashboard dark theme" />
+<img src="https://i.imgur.com/Qj8r70y.png" alt="WebAgu lectures dashboard light theme" />
+<img src="https://i.imgur.com/PS1QTow.png" alt="WebAgu lectures dashboard dark theme" />
 
 ## Key Features
 
