@@ -1,0 +1,35 @@
+export const activity_log_action_types = {
+    'task.index': 'Просмотр задач',
+    'lectures.index': 'Просмотр лекций',
+    'reviews.index': 'Задачи на проверку',
+    'users.index': 'Список пользователей',
+    'questions.index': 'Список вопросов',
+    'quizzes.index': 'Список тестов',
+    'quizzes.all_passed': 'Список пройденных тестов',
+    'auth.logout': 'Пользователь вышел из приложения',
+    'auth.login': 'Пользователь зашел в приложение',
+    'tasks.get_progress_for_user': 'Просмотр прогресса пользователя',
+    'reports.get_task_statuses': 'Общий отчет по задачам',
+    'task.destroy': 'Удаление задачи',
+    'task.show': 'Просмотр задачи',
+    'task.comments': 'Добавление комментария',
+    'reviews.get_for_student': 'Проверка работы студента',
+    'reviews.user_sent_for_review': 'Отправлено на проверку',
+    'users.show': 'Просмотр пользователей',
+    'auth.refresh': 'Обновление токена',
+    'files.store': 'Загрузка файла',
+    'files.destroy': 'Удаление файла',
+    'account.upload_avatar': 'Загрузка аватара',
+    'quizzes.begin': 'Тест начат',
+    'comments.create': 'Создание комментария',
+    'lectures.show': 'Просмотр лекции',
+    'files.index': 'Список файлов',
+    'quizzes.one_passed': 'Просмотр пройденного теста',
+    'account.create': 'Создан аккаунт',
+    'posts.index': 'Просмотр сообщений',
+    'posts.show': 'Просмотр сообщения',
+};
+
+export default function get_translation(key, default_value = '') {
+    return activity_log_action_types[key] || key || default_value;
+}
