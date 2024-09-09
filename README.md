@@ -3,9 +3,9 @@
 **WebAGU** is a web application designed for administering and managing educational materials. It supports adding, editing, and deleting subject-related topics and includes additional features for managing assignments, tests, and student reports.
 
 
-<img src="https://i.imgur.com/tZruy4H.png" width="30%" alt="WebAgu login page" />
-<img src="https://i.imgur.com/di1twjF.png" width="30%" alt="WebAgu lectures dashboard light theme" />
-<img src="https://i.imgur.com/L1RtA40.png" width="30%" alt="WebAgu lectures dashboard dark theme" />
+<img src="https://i.imgur.com/tZruy4H.png" alt="WebAgu login page" />
+<img src="https://i.imgur.com/di1twjF.png" alt="WebAgu lectures dashboard light theme" />
+<img src="https://i.imgur.com/L1RtA40.png" alt="WebAgu lectures dashboard dark theme" />
 
 ## Key Features
 
